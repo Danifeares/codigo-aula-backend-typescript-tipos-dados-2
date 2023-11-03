@@ -11,4 +11,4 @@ type Transacao = {
 
 const transacao = (transacao: Transacao) => {
     transacao.tipo = 'debito'
-}
+} 
